@@ -7,7 +7,10 @@ namespace App1
         static void Main(string[] args)
         {
             Console.WriteLine("Olá mundo cruel e triste demais!!!!");
-            
+            Console.WriteLine("Olá mundo cruel e triste demais!!!!");
+            Console.WriteLine("Olá mundo cruel e triste demais!!!!");
+            Console.WriteLine("Olá mundo cruel e triste demais!!!!");
+
         }
     }
 }
