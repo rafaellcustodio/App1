@@ -6,7 +6,7 @@ namespace App1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Olá mundo cruel!!!!");
+            Console.WriteLine("Olá mundo cruel e triste demais!!!!");
             
         }
     }
